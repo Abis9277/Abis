@@ -1,13 +1,15 @@
 # Abis 
 My concepts have been explained in the following README.md file
 
-1. VULMARSH - Vulmarsh is the name of the Black hole model been rendered in the attachment. The story behind the formation of the black is the collision of Alpha 
-   Centauri with artificial sun made by extraterrestrial organisms
+##1. VULMARSH:
 
-2. FORMATION OF AN ANOMALY - It is the concept where an anomaly gets created of it's own by the imperfection of the nature and starts to alter the nature itself,
-   which defines the textures of the rocks and the looks of the Human like organism
+Vulmarsh is the name of the Black hole model been rendered in the attachment. The story behind the formation of the black is the collision of Alpha Centauri with artificial sun made by extraterrestrial organisms.
 
-3. AMETHYST - Amethyst is an art which includes the portrait of a snake with phosphorous eyes and amethyst body(Amethyst is a rare purple stone).
+###2. FORMATION OF AN ANOMALY:
+It is the concept where an anomaly gets created of it's own by the imperfection of the nature and starts to alter the nature itself, which defines the textures of the rocks and the looks of the Human like organism.
 
-4. MADE IN CHINA - It is the concept in future that the character in the art is an american and was forced to use the products that was made in china. It is actually
-   based on the fact that in future perhaps any electronic product around the world will be made in China. Also I have attached a documentation for this art.
+####3. AMETHYST:
+Amethyst is an art which includes the portrait of a snake with phosphorous eyes and amethyst body(Amethyst is a rare purple stone).
+
+#####4. MADE IN CHINA:
+It is the concept in future that the character in the art is an american and was forced to use the products that was made in china. It is actually based on the fact that in future perhaps any electronic product around the world will be made in China. Also I have attached a documentation for this art.
